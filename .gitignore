@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Environnements virtuels
+.venv/
+env/
+*.pyenv
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Fichiers Streamlit
+.streamlit/
+
+# Fichiers audio/vidéo temporaires
+*.wav
+*.mp3
+*.mp4
+
+# Logs
+*.log
+
