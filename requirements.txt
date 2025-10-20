@@ -3,3 +3,4 @@ openai==1.52.2
 reportlab==4.0.9
 
 
+reportlab
